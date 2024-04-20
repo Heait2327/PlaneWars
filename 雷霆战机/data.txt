@@ -1,0 +1,5745 @@
+@player
+x = 284.000000
+y = 636.000000
+live = 1
+hp = 10
+speed = 0.000000
+type = 0
+bulletlevel = 0
+bulletspeed = 2.000000
+bullettime = 1000
+bulletfirepower = 1
+@playerbullet
+ @playerbullet[0]
+ x = 399.000000
+ y = 391.000000
+ live = 1
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[1]
+ x = 134.000000
+ y = -88.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[2]
+ x = 244.000000
+ y = -87.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+ @playerbullet[29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ bulletspeed = 0.000000
+ bulletlevel = 0
+@enemy
+ @enemy[0]
+ x = 78.000000
+ y = 395.000000
+ live = 1
+ hp = 1
+ type = 0
+ speed = 2.500000
+ @enemy[1]
+ x = 285.000000
+ y = 243.000000
+ live = 1
+ hp = 23
+ type = 3
+ speed = 1.000000
+ @enemy[2]
+ x = 417.000000
+ y = 432.500000
+ live = 0
+ hp = 0
+ type = 0
+ speed = 2.500000
+ @enemy[3]
+ x = 195.000000
+ y = 901.000000
+ live = 0
+ hp = 2
+ type = 1
+ speed = 1.000000
+ @enemy[4]
+ x = 399.000000
+ y = 597.500000
+ live = 0
+ hp = 0
+ type = 0
+ speed = 2.500000
+ @enemy[5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ hp = 0
+ type = 0
+ speed = 0.000000
+ @enemy[6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ hp = 0
+ type = 0
+ speed = 0.000000
+ @enemy[7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ hp = 0
+ type = 0
+ speed = 0.000000
+ @enemy[8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ hp = 0
+ type = 0
+ speed = 0.000000
+ @enemy[9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ hp = 0
+ type = 0
+ speed = 0.000000
+@enemybullet
+ @enemybullet[0][0]
+ x = 59.000000
+ y = 901.500000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 2.000000
+ @enemybullet[0][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[0][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][0]
+ x = 369.000000
+ y = 782.000000
+ live = 1
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 3.000000
+ @enemybullet[1][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[1][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][0]
+ x = 279.000000
+ y = 902.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 2.000000
+ @enemybullet[2][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[2][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[3][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[4][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[5][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[6][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[7][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[8][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @enemybullet[9][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+@boss
+ @boss[0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ hp = 0
+ @boss[1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ hp = 0
+ @boss[2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ hp = 0
+@bossbullet
+ @bossbullet[0][0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][54]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][55]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][56]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][57]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][58]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][59]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][60]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][61]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][62]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][63]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][64]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][65]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][66]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][67]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][68]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][69]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][70]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][71]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][72]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][73]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][74]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][75]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][76]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][77]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][78]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][79]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][80]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][81]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][82]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][83]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][84]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][85]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][86]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][87]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][88]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][89]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][90]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][91]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][92]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][93]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][94]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][95]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][96]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][97]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][98]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][99]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][100]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][101]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][102]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][103]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][104]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][105]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][106]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][107]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][108]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][109]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][110]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][111]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][112]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][113]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][114]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][115]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][116]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][117]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][118]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[0][119]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][54]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][55]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][56]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][57]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][58]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][59]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][60]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][61]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][62]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][63]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][64]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][65]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][66]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][67]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][68]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][69]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][70]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][71]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][72]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][73]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][74]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][75]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][76]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][77]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][78]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][79]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][80]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][81]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][82]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][83]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][84]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][85]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][86]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][87]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][88]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][89]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][90]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][91]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][92]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][93]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][94]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][95]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][96]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][97]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][98]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][99]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][100]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][101]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][102]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][103]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][104]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][105]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][106]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][107]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][108]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][109]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][110]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][111]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][112]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][113]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][114]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][115]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][116]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][117]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][118]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[1][119]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][4]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][5]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][6]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][7]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][8]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][9]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][10]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][11]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][12]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][13]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][14]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][15]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][16]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][17]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][18]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][19]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][20]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][21]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][22]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][23]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][24]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][25]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][26]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][27]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][28]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][29]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][30]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][31]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][32]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][33]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][34]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][35]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][36]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][37]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][38]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][39]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][40]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][41]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][42]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][43]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][44]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][45]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][46]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][47]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][48]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][49]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][50]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][51]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][52]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][53]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][54]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][55]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][56]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][57]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][58]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][59]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][60]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][61]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][62]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][63]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][64]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][65]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][66]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][67]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][68]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][69]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][70]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][71]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][72]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][73]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][74]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][75]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][76]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][77]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][78]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][79]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][80]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][81]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][82]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][83]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][84]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][85]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][86]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][87]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][88]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][89]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][90]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][91]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][92]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][93]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][94]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][95]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][96]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][97]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][98]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][99]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][100]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][101]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][102]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][103]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][104]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][105]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][106]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][107]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][108]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][109]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][110]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][111]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][112]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][113]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][114]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][115]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][116]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][117]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][118]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbullet[2][119]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+@bossbomb
+ @bossbomb[0]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbomb[1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+ @bossbomb[2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ speed = 0.000000
+ bulletspeed = 0.000000
+@supply
+ @supply[0]
+ x = 0.000000
+ y = 35.000000
+ live = 2
+ @supply[1]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ @supply[2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ @supply[3]
+ x = 269.000000
+ y = 627.000000
+ live = 0
+@supplydrop
+ @supplydrop[0]
+ x = 382.000000
+ y = 527.000000
+ live = 0
+ @supplydrop[1]
+ x = 131.000000
+ y = 683.500000
+ live = 0
+ @supplydrop[2]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+ @supplydrop[3]
+ x = 0.000000
+ y = 0.000000
+ live = 0
+@otherdata
+ ifdifficult = 3
+ ifcreatbossbullet[0] = 0
+ ifcreatbossbullet[1] = 0
+ ifcreatbossbullet[2] = 0
+ invincibility[0] = 0
+ invincibility[1] = 0
+ gamer.name = 123
+ gamer.score = 65
+ hitboss.score = 999
+ map[ifdifficult - 1].y = -604.000000
